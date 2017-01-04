@@ -1,5 +1,5 @@
 var nodes = [
-  {id:1 ,lat: 33.597277,lng: 130.3949927, check: "false", description: "ボート場"},
+  {id:1 ,lat: 33.597277,lng: 130.3949927, check: "false", description: "福岡競艇場"},
   {id:2 ,lat: 33.5902766,lng: 130.4177258, check: "false", description: "アミュプラザ博多"},
   {id:3 ,lat: 33.589749,lng: 130.4084023, check: "false", description: "グランドハイアット福岡"},
   {id:4 ,lat: 33.581969,lng: 130.3867053, check: "false", description: "筑紫女学園高校"},
@@ -10,9 +10,15 @@ var nodes = [
   {id:9 ,lat:33.532129,lng:130.390225, check: "false", description: "檜原運動公園"},
   {id:10 ,lat:33.564894,lng:130.360644, check: "false", description: "県立城南高校"},
   {id:11 ,lat:33.551000,lng:130.297451, check: "false", description: "生松台中央公園"},
-  {id:12 ,lat:33.572060,lng:130.355022, check: "false", description: "福岡工業高校"}
+  {id:12 ,lat:33.572060,lng:130.355022, check: "false", description: "福岡工業高校"},
+  {id:13 ,lat:33.584420,lng:130.353990, check: "false", description: "西南学院大学"},
+  {id:14 ,lat:33.577332,lng:130.375652, check: "false", description: "マツモトキヨシ六本松店"},
+  {id:15 ,lat:33.582098,lng:130.382427, check: "false", description: "福岡県護国神社"},
+  {id:16 ,lat:33.585653,lng:130.413364, check: "false", description: "住吉神社"},
+  {id:17 ,lat:33.520594,lng:130.534714, check: "false", description: "太宰府天満宮"}
 ];
 
+//{id: ,lat:,lng:, check: "false", description: ""},
 // 1,ボート場
 // 2,アミュプラザ博多
 // 3,グランドハイアット福岡
